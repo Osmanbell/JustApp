@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Newjust'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_239A4A1B789B4106A4A2FFAD659EBFC5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D84283AEE96403D8F31B355E5CA39A9 }}
           package: .
